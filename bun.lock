@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "react-example",
+      "name": "signwithchikky",
       "dependencies": {
         
         "@tailwindcss/vite": "^4.3.3",
